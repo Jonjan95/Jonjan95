@@ -30,7 +30,7 @@ I'm looking for an internship (LIA) where I can apply what I'm learning in a rea
 
 ### AI-Powered Test Engineer
 
-A full-stack QA and test automation portfolio project focused on AI-assisted software testing.
+A full-stack QA and test automation project focused on AI-assisted software testing.
 
 The application helps turn user stories into generated test cases and Playwright test scripts. It includes a Spring Boot backend, Next.js frontend, PostgreSQL database, Flyway migrations, Playwright E2E tests, Testcontainers integration tests, GitHub Actions CI, and a configurable AI provider.
 
