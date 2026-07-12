@@ -23,6 +23,5 @@ Built with Spring Boot, Next.js, PostgreSQL, Flyway, Playwright, Testcontainers,
 
 ## Contact
 Email: jonis.jansson@hotmail.com
-
 Malmö, Sweden  
 Swedish / English
