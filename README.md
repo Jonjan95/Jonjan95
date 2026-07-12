@@ -22,6 +22,6 @@ A full-stack QA/test automation portfolio project that turns user stories into g
 Built with Spring Boot, Next.js, PostgreSQL, Flyway, Playwright, Testcontainers, Docker, GitHub Actions, and a configurable mock/OpenAI provider.
 
 ## Contact
-
+Email: jonis.jansson@hotmail.com
 Malmö, Sweden  
 Swedish / English
