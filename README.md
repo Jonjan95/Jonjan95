@@ -16,7 +16,7 @@ I'm currently looking for LIA/internship opportunities where I can grow in a rea
 
 ### AI-Powered Test Engineer
 
-A full-stack QA/test automation portfolio project that turns user stories into generated test cases and Playwright test scripts.
+A full-stack QA/test automation project that turns user stories into generated test cases and Playwright test scripts.
 
 Built with Spring Boot, Next.js, PostgreSQL, Flyway, Playwright, Testcontainers, Docker, GitHub Actions, and a configurable mock/OpenAI provider.
 
