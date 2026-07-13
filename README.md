@@ -11,7 +11,6 @@ I'm currently looking for LIA/internship opportunities where I can grow in a rea
 - PostgreSQL · Flyway · Docker
 - JUnit · MockMvc · Playwright · Testcontainers
 - GitHub Actions · CI/CD
-- AI-assisted development workflows
 
 ## Featured project
 
