@@ -14,7 +14,7 @@ I'm currently looking for LIA/internship opportunities where I can grow in a rea
 
 ## Featured project
 
-### AI-Powered Test Engineer
+### [AI-Powered Test Engineer](https://github.com/Jonjan95/AI-Powered-Test-Engineer)
 
 A full-stack QA/test automation project that turns user stories into generated test cases and Playwright test scripts.
 
