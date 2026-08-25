@@ -2,8 +2,6 @@
 
 Systems Developer student in Malmö, Sweden, focused on QA, test automation, Java/Spring Boot, and full-stack development.
 
-I'm currently looking for LIA/internship opportunities where I can grow in a real development team.
-
 ## Focus areas
 
 - Java · Spring Boot · REST APIs
